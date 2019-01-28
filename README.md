@@ -9,7 +9,7 @@ C言語+DXライブラリで作成した恋愛ノベルゲーム
 http://www.usamimi.info/~guiprog/game_programming/gameProgramming.pdf
 
 ## その他
-中二病の女の子のセリフは下記サイトを使用してセリフをそれっぽくした  
+中二病の女の子のセリフは下記サイトを使用してセリフを中二病っぽくした  
 ノムリッシュ翻訳  
 https://racing-lagoon.info/nomu/translate.php  
 
