@@ -14,3 +14,5 @@ http://www.usamimi.info/~guiprog/game_programming/gameProgramming.pdf
 https://racing-lagoon.info/nomu/translate.php  
 
 ## こうなる予定だった
+オープニングでBGMが流れる  
+<img src="https://user-images.githubusercontent.com/40752235/51818164-22656f80-2311-11e9-9602-10530eec4ebe.png" width = "580px" height = "420px">
