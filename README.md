@@ -11,7 +11,6 @@ http://www.usamimi.info/~guiprog/game_programming/gameProgramming.pdf
 
 ## その他
 中二病の女の子のセリフは下記サイトを使用してセリフを中二病っぽくした  
-ノムリッシュ翻訳  
 https://racing-lagoon.info/nomu/translate.php  
 
 ## こんな感じの話（になる予定だった）
@@ -30,13 +29,13 @@ https://racing-lagoon.info/nomu/translate.php
 ### まともな会話はほぼ無い
 <img src="https://user-images.githubusercontent.com/40752235/51818299-b46d7800-2311-11e9-80b2-004aa3b59760.png" width = "600px" height = "420px">
 
-### ヤンデレの家にお邪魔したときのアルバムの書き込みを見つけた
+### ヤンデレの家にお邪魔したときの一場面
 <img src="https://user-images.githubusercontent.com/40752235/51875133-15935b00-23a7-11e9-8b4d-74e765ecc1a5.png" width = "600px" height = "420px">
 
-### ヒロイン2（ヤンデレ）からの気持ちを受け取らないシューティングゲームが始まる
+### ヤンデレからの気持ちを受け取らないシューティングゲームが始まる
 <img src="https://user-images.githubusercontent.com/40752235/51818303-b7686880-2311-11e9-80c6-86e7f6f366e1.png" width = "600px" height = "420px">
 
-### ヤンデレから気持ちを受け取りすぎるとこっちを殺しに来る　包丁はホーミング性能あり
+### 一定条件でヤンデレがこっちを殺しに来る　包丁はホーミング性能あり
 <img src="https://user-images.githubusercontent.com/40752235/51818311-bd5e4980-2311-11e9-9695-9c096338eb2e.png" width = "600px" height = "420px">
 
 ### 森での追いかけっこ　キノコ踏むと硬直/ドクロ踏むと相手の速度が上がる/落とし穴に入ると死ぬ
